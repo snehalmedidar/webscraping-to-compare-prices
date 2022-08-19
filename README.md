@@ -1,2 +1,2 @@
 # webscraping-to-compare-prices
-using beautiful soup in pythin
+using beautiful soup in python
